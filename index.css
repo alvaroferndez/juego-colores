@@ -1,0 +1,44 @@
+body{
+      margin: auto;
+      text-align:center;
+      background-color: black;
+}
+header{
+      padding: 10px;
+      margin-top: -20px;
+      background-color:#2d8e99;
+      color: white;
+      
+}
+h1{
+      font-size: 60px;
+}
+section{
+      margin-top: -20px;
+      background-color: white;
+}
+p{
+      color:#2d8e99;
+      padding: 10px;
+}
+h3{
+      color: green;
+      font-size: xx-large;
+      padding-bottom: 10px;
+}
+.contenedor{
+      background-color: black;
+      display: grid;
+      grid-template-columns: auto auto auto;
+      height: 500px;
+      width: 700px;
+      margin-left: 26%;
+      padding: 30px;
+}
+.item{
+      height: 200px;
+      width: 200px;
+      background-color: white;
+      border-radius: 20px;
+
+}
